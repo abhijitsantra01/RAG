@@ -1,6 +1,6 @@
 # 📚 RAG-based PDF Question Answering System
 
-A **Retrieval-Augmented Generation (RAG)** system that allows you to ask questions over your PDF documents and get accurate, context-aware answers using **FAISS + Sentence Transformers + LLM (OpenAI / Phi-3 Mini)**.
+A **Retrieval-Augmented Generation (RAG)** system that allows you to ask questions over your PDF documents and get accurate, context-aware answers using **FAISS + Sentence Transformers + LLM (Gemini)**.
 
 ---
 
@@ -10,7 +10,7 @@ A **Retrieval-Augmented Generation (RAG)** system that allows you to ask questio
 - ✂️ Intelligent text chunking with overlap
 - 🧠 Semantic embeddings using `sentence-transformers`
 - 🔎 Fast similarity search using `FAISS`
-- 🤖 LLM-powered answers (OpenAI / Phi-3 Mini)
+- 🤖 LLM-powered answers (Gemini)
 - 💾 Persistent vector database (save & reload)
 - 📑 Source-aware responses (file + page support)
 - ⚡ Modular and scalable architecture
